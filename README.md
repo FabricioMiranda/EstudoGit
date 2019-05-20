@@ -1,5 +1,5 @@
 # Estudo Git Repo
 
-![./dart.png](Olha o Dart)
+![Dart](dart.png)
 
 Este repositório serve de exemplo para o curso de Git e Github
